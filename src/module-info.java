@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author carwy
+ *
+ */
+module hangman {
+}
